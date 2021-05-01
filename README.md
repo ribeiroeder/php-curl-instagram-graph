@@ -22,7 +22,7 @@ Script made based on the new (2020) Instagram API that requires authorization to
 <p>- Videos are supported! But in this script the default setting opts for the video thumbnail to avoid conflicts.</p>
 <p>- Official Graph API Instagram documentation can be found <a href="https://developers.facebook.com/docs/instagram-basic-display-api/reference/media/" target="blank">here</a></p>
 
-<h2>jQuery Version</h2>
+<h2>jQuery version</h2>
 <p>If you prefer <strong>jQuery</strong>, this script follows the same concepts and classes <a href="https://github.com/ribeiroeder/jquery-feed-instagram-graph" target="blank">jQuery Ajax for feed Instagram Graph API</a></p>
 
 <h2>Help with the tokens dilemma</h2>
