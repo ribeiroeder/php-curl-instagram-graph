@@ -25,7 +25,7 @@ Script made based on the new (2020) Instagram API that requires authorization to
 <h2>jQuery version</h2>
 <p>If you prefer <strong>jQuery</strong>, this script follows the same concepts and classes <a href="https://github.com/ribeiroeder/jquery-feed-instagram-graph" target="blank">jQuery Ajax for feed Instagram Graph API</a></p>
 
-<h2>Help with the tokens dilemma</h2>
+<h2>Attention token renewal</h2>
 <p>"Tokens are valid for 60 days and can be refreshed as long as they are at least 24 hours old but have not expired, and the app user has granted your app the instagram_graph_user_profile permission. Refreshed tokens are valid for 60 days from the date at which they are refreshed. Tokens that have not been refreshed in 60 days will expire and can no longer be refreshed." <a href="https://developers.facebook.com/docs/instagram-basic-display-api/guides/long-lived-access-tokens" target="blank">Here is the documentation</a></p>
 
 <p><strong>Through this excerpt above we can see that we have a problem with the "non-automatic" renewal of the tokens, we cannot let it expire at risk of inactivation. With just one curl -i -X GET request, we can renew the token, so if you can help with any automated solution, it would be great!</strong></p>
