@@ -14,8 +14,10 @@ Script made based on the new (2020) Instagram API that requires authorization to
 <p>The size was configured to display 6 columns of photos, edit as needed.</p>
 
 <h2>Notes</h2>
-<p>- The new instagram API still has several limitations.</p>
 <p>- It does not work if you do not generate the token and authorize the application/testers.</p>
+<p>- The new instagram API still has several limitations.</p>
+<p>- The total number of calls your app can make per hour is 240 times the number of users. Please note this isn't a per-user limit. Any individual user can make more than 240 calls per hour, as long as the total for all users does not exceed the app maximum.</p>
+<p>- Its use and consumption can be monitored on developers.facebook.com</p>
 <p>- Only the 1080px image size is supported.</p>
 <p>- Videos are supported! But in this script the default setting opts for the video thumbnail to avoid conflicts.</p>
 <p>- Editions and suggestions are always welcome!</p>
