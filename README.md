@@ -10,7 +10,8 @@ Script made based on the new (2020) Instagram API that requires authorization to
 <p>Include the function in your theme an edit the line with your generated token</p>
 
 <h2>Customization and style</h2>
-Optional compatible CSS style is included in the files. Edit as needed.
+<p>Optional compatible CSS style is included in the files.</p>
+<p>The size was configured to display 6 columns of photos, edit as needed.</p>
 
 <h2>Notes</h2>
 <p>- The new instagram API still has several limitations.</p>
