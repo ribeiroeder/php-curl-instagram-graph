@@ -20,7 +20,6 @@
   foreach ($result_decode["data"] as $post) : 
 
   $caption = $post["caption"];
-
   $permalink = $post["permalink"];
   $media_type = $post["media_type"];
 
