@@ -7,11 +7,8 @@ Script made based on the new (2020) Instagram API that requires authorization to
 <p>Follow the steps outlined <a href="https://www.mageplaza.com/kb/how-to-get-instagram-feed-access-token.html" target="blank">here</a></p>
 
 <h2>How to use</h2>
-<p>Include the function in your theme, edit the line with your generated token and call with</p>
+<p>Include the function in your theme an edit the line with your generated token</p>
 
-```html
-<div id="instagram-feed1" class="instagram_feed"></div>
-```
 <h2>Customization and style</h2>
 Optional compatible CSS style is included in the files. Edit as needed.
 
