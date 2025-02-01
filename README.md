@@ -1,3 +1,5 @@
+<b>Deprecated: As of December 4, 2024, the Instagram Basic Display API will no longer be available.</b>
+
 # php-curl-instagram-graph
 PHP cURL for feed Instagram Graph API
 
